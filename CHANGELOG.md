@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.1 — 2026-09-10
+
+- Moved update status beside the version badge, matching Better Flags.
+- Added active-game assignment for per-game autoload.
+- Ignored held and long-press button input.
+- Kept button mapping and PayPal support active while the switcher is disabled.
+
 ## 1.0 — 2026-09-10
 
 - Switch complete saved SimHub overlay layouts in a configurable rotation.
