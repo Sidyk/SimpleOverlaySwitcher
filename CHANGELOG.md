@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.2.1 — 2026-09-10
+
+- Activate the preferred overlay only after the SimHub main window is ready.
+- Retry startup activation when SimHub does not retain the first request.
+- Give a matching per-game autoload layout priority over the first rotation entry.
+
 ## 1.0.2 — 2026-09-10
 
 - Show the startup update popup only once for each available version.

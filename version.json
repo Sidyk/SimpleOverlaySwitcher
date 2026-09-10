@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "downloadUrl": "https://raw.githubusercontent.com/Sidyk/SimpleLayoutSwitcher/main/SimpleOverlaySwitcher.dll?v=1.0.2",
-  "sha256": "552A6C18CBED84940D9EB62D999A99985DA7ABA981EA910C0C51CA75A0B04967",
-  "changelog": "The startup update popup is now displayed only once for each available version, while manual updating remains available."
+  "version": "1.0.2.1",
+  "downloadUrl": "https://raw.githubusercontent.com/Sidyk/SimpleLayoutSwitcher/main/SimpleOverlaySwitcher.dll?v=1.0.2.1",
+  "sha256": "7A95F722934855B8229CF6D37CB7754F91845A090ED8E83D532F08083802E591",
+  "changelog": "Fixed startup overlay activation: the plugin now waits for SimHub to finish loading, prioritizes a matching game autoload layout, and otherwise activates the first layout in rotation."
 }
