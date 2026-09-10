@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1.1 — 2026-09-10
+
+- Enabled TLS 1.2 explicitly for GitHub update checks on .NET Framework.
+- Added update-check failure details to the SimHub log.
+
 ## 1.0.1 — 2026-09-10
 
 - Moved update status beside the version badge, matching Better Flags.

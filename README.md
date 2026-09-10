@@ -4,9 +4,9 @@
 
 A Windows SimHub plugin by **Sidyk** for switching between complete saved overlay layouts with your steering wheel, button box or keyboard.
 
-**[Download SimpleOverlaySwitcher.dll](https://raw.githubusercontent.com/Sidyk/SimpleLayoutSwitcher/main/SimpleOverlaySwitcher.dll?v=1.0.1)**
+**[Download SimpleOverlaySwitcher.dll](https://raw.githubusercontent.com/Sidyk/SimpleLayoutSwitcher/main/SimpleOverlaySwitcher.dll?v=1.0.1.1)**
 
-Current version: **1.0.1** — [Changelog](CHANGELOG.md)
+Current version: **1.0.1.1** — [Changelog](CHANGELOG.md)
 
 ## Features
 
