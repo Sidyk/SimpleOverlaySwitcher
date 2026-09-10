@@ -1,6 +1,6 @@
 {
   "version": "1.0.2",
   "downloadUrl": "https://raw.githubusercontent.com/Sidyk/SimpleLayoutSwitcher/main/SimpleOverlaySwitcher.dll?v=1.0.2",
-  "sha256": "5B44F3F692537EA13C06303AEBB24FCDC69CE9494EC3D868F59C6597D4A44D43",
+  "sha256": "552A6C18CBED84940D9EB62D999A99985DA7ABA981EA910C0C51CA75A0B04967",
   "changelog": "The startup update popup is now displayed only once for each available version, while manual updating remains available."
 }
