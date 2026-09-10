@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "downloadUrl": "https://raw.githubusercontent.com/Sidyk/SimpleLayoutSwitcher/main/SimpleOverlaySwitcher.dll?v=1.0.0",
+  "sha256": "4AAEAEB91C5081918278C9F871B304F0D88D7B4B854BCE64C36A1D4883A5BC7D",
+  "changelog": "Initial 1.0 release: saved overlay layout rotation, native button mappings, per-game autoload, master enable switch and verified automatic updates."
+}
