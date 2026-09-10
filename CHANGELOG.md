@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.2 — 2026-09-10
+
+- Show the startup update popup only once for each available version.
+- Persist the last announced update version even when the user declines installation.
+
 ## 1.0.1.1 — 2026-09-10
 
 - Enabled TLS 1.2 explicitly for GitHub update checks on .NET Framework.

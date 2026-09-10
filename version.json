@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1.1",
-  "downloadUrl": "https://raw.githubusercontent.com/Sidyk/SimpleLayoutSwitcher/main/SimpleOverlaySwitcher.dll?v=1.0.1.1",
-  "sha256": "3517B99F375D0654E6F2F1CE6774618B093C816E9CE9C178E8C8BD662E6D2B88",
-  "changelog": "Fixed GitHub update detection by explicitly enabling TLS 1.2 and logging connection failures. Update status is displayed beside the version badge."
+  "version": "1.0.2",
+  "downloadUrl": "https://raw.githubusercontent.com/Sidyk/SimpleLayoutSwitcher/main/SimpleOverlaySwitcher.dll?v=1.0.2",
+  "sha256": "5B44F3F692537EA13C06303AEBB24FCDC69CE9494EC3D868F59C6597D4A44D43",
+  "changelog": "The startup update popup is now displayed only once for each available version, while manual updating remains available."
 }
